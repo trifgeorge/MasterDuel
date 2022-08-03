@@ -1,6 +1,6 @@
 [1. Introduction](#1Introduction)
 [2. Tools](#2Tools)
-[3. Changing Sleeves](#3Changing Sleeves)
+[3. Changing_Sleeves](#3Changing_Sleeves)
 
 # 1.Introduction
 In Yu-gi-oh Master Duel all your cards/sleeves/terrain/summon animation can be overridden on your local machine.
@@ -16,7 +16,7 @@ Because the changes only happens locally and you don't get an advantage by chang
 ## NOTE
 I added AssetStudio.net6 and UABEA to this repository. You can also find them on github.
 
-# 3.Changing Sleeves
+# 3.Changing_Sleeves
 1. Select the artwork you want to use as sleeve.
 2. Open it in an image editor.
 3. Change the dimension to 480/700 pixels.
