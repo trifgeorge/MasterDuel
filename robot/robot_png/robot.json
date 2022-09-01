@@ -1,0 +1,332 @@
+{
+    "skeleton": {
+        "hash": "AnNGCgm1KE26nDxUu2R4xqNyrKs",
+        "spine": "3.0.10",
+        "width": 600,
+        "height": 450
+    },
+    "bones": [
+        {
+            "name": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "robot_3-05",
+            "bone": "root",
+            "attachment": "robot_3-05"
+        }
+    ],
+    "skins": {
+        "default": {
+            "robot_3-05": {
+                "robot_3-05": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-06": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-07": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-08": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-09": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-10": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-11": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-12": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-13": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-14": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-15": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-16": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-17": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-18": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-19": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-20": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-21": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-22": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-23": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-24": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-25": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-26": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-27": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-28": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-29": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-30": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-31": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-32": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-33": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-34": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-35": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-36": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-37": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-38": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-39": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-40": {
+                    "width": 600,
+                    "height": 450
+                },
+                "robot_3-41": {
+                    "width": 600,
+                    "height": 450
+                }
+            }
+        }
+    },
+    "animations": {
+        "animation": {
+            "slots": {
+                "robot_3-05": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "robot_3-05"
+                        },
+                        {
+                            "time": 0.0454,
+                            "name": "robot_3-06"
+                        },
+                        {
+                            "time": 0.0909,
+                            "name": "robot_3-07"
+                        },
+                        {
+                            "time": 0.1363,
+                            "name": "robot_3-08"
+                        },
+                        {
+                            "time": 0.1818,
+                            "name": "robot_3-09"
+                        },
+                        {
+                            "time": 0.2272,
+                            "name": "robot_3-10"
+                        },
+                        {
+                            "time": 0.2727,
+                            "name": "robot_3-11"
+                        },
+                        {
+                            "time": 0.3181,
+                            "name": "robot_3-12"
+                        },
+                        {
+                            "time": 0.3636,
+                            "name": "robot_3-13"
+                        },
+                        {
+                            "time": 0.409,
+                            "name": "robot_3-14"
+                        },
+                        {
+                            "time": 0.4545,
+                            "name": "robot_3-15"
+                        },
+                        {
+                            "time": 0.5,
+                            "name": "robot_3-16"
+                        },
+                        {
+                            "time": 0.5454,
+                            "name": "robot_3-17"
+                        },
+                        {
+                            "time": 0.5909,
+                            "name": "robot_3-18"
+                        },
+                        {
+                            "time": 0.6363,
+                            "name": "robot_3-19"
+                        },
+                        {
+                            "time": 0.6818,
+                            "name": "robot_3-20"
+                        },
+                        {
+                            "time": 0.7272,
+                            "name": "robot_3-21"
+                        },
+                        {
+                            "time": 0.7727,
+                            "name": "robot_3-22"
+                        },
+                        {
+                            "time": 0.8181,
+                            "name": "robot_3-23"
+                        },
+                        {
+                            "time": 0.8636,
+                            "name": "robot_3-24"
+                        },
+                        {
+                            "time": 0.909,
+                            "name": "robot_3-25"
+                        },
+                        {
+                            "time": 0.9545,
+                            "name": "robot_3-26"
+                        },
+                        {
+                            "time": 1,
+                            "name": "robot_3-27"
+                        },
+                        {
+                            "time": 1.0454,
+                            "name": "robot_3-28"
+                        },
+                        {
+                            "time": 1.0909,
+                            "name": "robot_3-29"
+                        },
+                        {
+                            "time": 1.1363,
+                            "name": "robot_3-30"
+                        },
+                        {
+                            "time": 1.1818,
+                            "name": "robot_3-31"
+                        },
+                        {
+                            "time": 1.2272,
+                            "name": "robot_3-32"
+                        },
+                        {
+                            "time": 1.2727,
+                            "name": "robot_3-33"
+                        },
+                        {
+                            "time": 1.3181,
+                            "name": "robot_3-34"
+                        },
+                        {
+                            "time": 1.3636,
+                            "name": "robot_3-35"
+                        },
+                        {
+                            "time": 1.409,
+                            "name": "robot_3-36"
+                        },
+                        {
+                            "time": 1.4545,
+                            "name": "robot_3-37"
+                        },
+                        {
+                            "time": 1.5,
+                            "name": "robot_3-38"
+                        },
+                        {
+                            "time": 1.5454,
+                            "name": "robot_3-39"
+                        },
+                        {
+                            "time": 1.5909,
+                            "name": "robot_3-40"
+                        },
+                        {
+                            "time": 1.6363,
+                            "name": "robot_3-41"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
