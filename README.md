@@ -51,7 +51,7 @@ STEPS:
 # 4.Changing_Animations
 Apps needed:
 -Everything from [2. Tools](#2Tools)
--Python script(<a href="https://github.com/MattOstgard/spine_sequence/blob/master/spine_sequence.py">SRIPT</a>)
+-Python script(<a href="https://github.com/MattOstgard/spine_sequence/blob/master/spine_sequence.py">SCRIPT</a>)
 -Python
 -Spine(You can find a cracked version online)
 Steps:
@@ -74,7 +74,7 @@ Note: The PNG's file names must be in order ex:xxx00.png, xxx01.png, xxx02.png. 
 16. Export in a different folder(.atlas, .json, .png).
 Note: The export must be only one .png file. If not reduce the Scale value.
 17.  Open the .json file.
-18.  Change the value of "images"(from skeleton object) to "./images"(from skeleton object) and the value of "audio" to "".
+18.  Change the value of "images"(from skeleton object) to "./images/" and the value of "audio" to "".
 Note: You can also replace the values of width(replace all) and height(replace all) but I recommend to see the animation in game first. 
 19.  Open the .atlas file.
 20.  Change the SECOUND line to "PCardId.png" where CardId is the AnimationId(from spreedsheat).
