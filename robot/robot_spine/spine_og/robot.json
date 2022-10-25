@@ -4,8 +4,8 @@
 		"spine": "3.8.75",
 		"x": -300,
 		"y": -225,
-		"width": 4800,
-		"height": 3600,
+		"width": 4200,
+		"height": 3150,
 		"images": "./images/",
 		"audio": ""
 	},
@@ -27,152 +27,152 @@
 			"attachments": {
 				"robot_3-05": {
 					"robot_3-05": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-06": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-07": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-08": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-09": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-10": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-11": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-12": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-13": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-14": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-15": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-16": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-17": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-18": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-19": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-20": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-21": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-22": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-23": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-24": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-25": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-26": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-27": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-28": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-29": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-30": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-31": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-32": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-33": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-34": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-35": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-36": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-37": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-38": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-39": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-40": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					},
 					"robot_3-41": {
-						"width": 4800,
-						"height": 3600
+						"width": 4200,
+						"height": 3150
 					}
 				}
 			}
